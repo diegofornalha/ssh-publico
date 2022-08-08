@@ -5,3 +5,5 @@ Connect via SSH
 Access Token
 
 git checkout main
+
+run="cd exam-level-1 && cd level1/ "

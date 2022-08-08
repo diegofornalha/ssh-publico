@@ -1,0 +1,1 @@
+run="cd level1 && cd ft_strlen && cc *.c -o strlen && ./strlen"
